@@ -41,10 +41,10 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🔮 SHINYOROI](https://github.com/jbharadwaja/shinyoroi-trend-forecasting) | Forecasting product interest via Google Trends + Prophet | Python, PyTrends, Prophet |
-| [🎮 Game Sales Analysis](https://github.com/jbharadwaja/video-game-sales-forecasting) | Statistical tests on global sales data by platform & genre | Pandas, Seaborn, SciPy |
-| [🛒 Instacart Basket Insights](https://github.com/jbharadwaja/instacart-market-basket-analysis) | 300K+ order analysis for reorder patterns | SQL, EDA, Python |
-| [📞 Mobile Plan Revenue](https://github.com/jbharadwaja/telecom-revenue-analysis) | Prepaid plan revenue comparison using usage data | StatsModels, Hypothesis Testing |
+| [🔮 SHINYOROI](https://github.com/jbharadwaja/SHINYOROI) | Forecasting product interest via Google Trends + Prophet | Python, PyTrends, Prophet |
+| [🎮 Game Sales Analysis](https://github.com/jbharadwaja/Video-Game-Sales-Forecasting) | Statistical tests on global sales data by platform & genre | Pandas, Seaborn, SciPy |
+| [🛒 Instacart Basket Insights](https://github.com/jbharadwaja/Instacart-Market-Basket-Analysis) | 300K+ order analysis for reorder patterns | SQL, EDA, Python |
+| [📞 Mobile Plan Revenue](https://github.com/jbharadwaja/Phone-Plan-Revenue-Statistic-Data-Analysis) | Prepaid plan revenue comparison using usage data | StatsModels, Hypothesis Testing |
 
 ---
 
